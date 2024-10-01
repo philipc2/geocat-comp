@@ -1,6 +1,5 @@
-# The Geoscience Community Analysis Toolkit: Computation
 
------------------
+# The Geoscience Community Analysis Toolkit: Computation
 
 
 
