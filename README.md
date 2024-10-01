@@ -36,7 +36,7 @@ welcome to suggest novel computational functions for geosciences data.
 ## Installation and build instructions
 
 Please see our documentation for
-[installation and build instructions](https://github.com/NCAR/geocat-comp/blob/main/INSTALLATION.md).
+[installation and build instructions](https://geocat-comp.readthedocs.io/en/latest/installation.html).
 
 
 ## Citing GeoCAT-comp
